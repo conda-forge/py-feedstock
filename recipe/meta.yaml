@@ -22,7 +22,7 @@ requirements:
     - python
     - setuptools_scm
   run:
-    - python
+    - python >=2.7
 
 test:
   imports:

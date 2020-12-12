@@ -5,11 +5,9 @@ Home: https://github.com/pytest-dev/py
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/py-feedstock/blob/master/LICENSE.txt)
 
 Summary: library with cross-python path, ini-parsing, io, code, log facilities
-
-
 
 Current build status
 ====================
